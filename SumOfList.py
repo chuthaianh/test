@@ -8,3 +8,4 @@ for i in range(n):
     answer += lst[i]
 
 print(answer)   
+#hello
